@@ -235,13 +235,22 @@ On the 2,000-observation test set, the Random Forest confusion matrix is:
 
 Result                      Count
 
-True Negatives              1,915
+True Negatives              1,929
 
-False Positives             17
+False Positives             3
 
-False Negatives             25
+False Negatives             39
 
-True Positives              43
+True Positives              29
+
+The recommended Random Forest achieved:
+
+- Accuracy: 0.9790
+- Precision: 0.9062
+- Recall: 0.4265
+- F1 Score: 0.5800
+- ROC-AUC: 0.9636
+- PR-AUC: 0.7720
 
 These results indicate that the model correctly identifies most normal operating observations while detecting a portion of the relatively small failure class.
 

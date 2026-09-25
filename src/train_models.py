@@ -434,11 +434,11 @@ if __name__ == "__main__":
         [
             {
                 "Type": "L",
-                "Air temperature [K]": 298.9,
-                "Process temperature [K]": 309.0,
-                "Rotational speed [rpm]": 1410,
-                "Torque [Nm]": 65.7,
-                "Tool wear [min]": 191,
+                "Air temperature [K]": 300.0,
+                "Process temperature [K]": 310.0,
+                "Rotational speed [rpm]": 1400,
+                "Torque [Nm]": 50.0,
+                "Tool wear [min]": 180,
             }
         ]
     )

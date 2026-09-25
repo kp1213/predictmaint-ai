@@ -387,18 +387,6 @@ else:
             objective=objective,
         )
 
-    if (
-        st.session_state.trained_models is not None
-        and config_matches
-    ):
-        trained_models = st.session_state.trained_models
-        leaderboard = st.session_state.leaderboard
-
-        recommendation = recommend_model(
-            leaderboard,
-            objective=objective,
-        )
-
         recommended_model_name = recommendation["model"]
         recommended_model = trained_models[recommended_model_name]
 
