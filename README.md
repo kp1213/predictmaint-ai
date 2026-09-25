@@ -106,13 +106,13 @@ predictmaint-ai/
 ├── data/
 │   └── ai4i2020.csv
 ├── docs/
-├── models/
+│   ├── project_summary.md
+│   └── technical_documentation.md
 ├── src/
 │   ├── data_analysis.py
 │   ├── explainability.py
 │   ├── prediction.py
 │   └── train_models.py
-├── tests/
 ├── .gitignore
 ├── app.py
 ├── README.md
