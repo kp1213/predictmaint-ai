@@ -4,6 +4,12 @@ PredictMaint AI is an explainable machine learning application for industrial pr
 
 The project was developed for the **ABB Accelerator 2026 – Predictive Maintenance** challenge.
 
+## 🎥 Demo Video
+
+Watch a demonstration of PredictMaint AI:
+
+[▶️ Watch the PredictMaint AI Demo](https://www.loom.com/share/79b1edbf4ae94721a406410f1e79baf4)
+
 ## Overview
 
 Unexpected equipment failures can cause production downtime, maintenance costs, and operational disruption. PredictMaint AI demonstrates how machine learning can use historical operating conditions to identify equipment with elevated failure risk before a failure occurs.
